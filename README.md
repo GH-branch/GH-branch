@@ -1,4 +1,4 @@
-# 👋 Hi, I'm GH-branch
+# 👋 Hi, I'm GH-branch                                                            ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=GH-branch.GH-branch)
 
 🎓 **Computer Science Student** | 💻 **Developer** | 🚀 **Tech Enthusiast**
 
